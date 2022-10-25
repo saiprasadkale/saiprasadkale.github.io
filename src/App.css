@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+body{
+  background-color: #4e2d82;
+  color: #FFFFFF;
+  font-family: "Source Sans Pro",sans-serif;
+  font-weight: 700;
+  font-size: 17px !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
